@@ -31,8 +31,11 @@ Install cocoapod dependencies (for iOS only) \
 Run on iOS simulator \
 `npx reac-native run-ios`
 
-Run on iOS emulator \
+Run on Android emulator \
 `npx reac-native run-android`
+
+Run tests \
+`npm test`
 
 iOS emulator: https://docs.expo.io/workflow/ios-simulator/ \
 Android emulator: https://docs.expo.io/workflow/android-studio-emulator/
