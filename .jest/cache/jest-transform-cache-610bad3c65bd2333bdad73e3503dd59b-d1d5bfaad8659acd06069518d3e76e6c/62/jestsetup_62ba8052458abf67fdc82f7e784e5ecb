@@ -1,0 +1,16 @@
+7adcec9ef630cd0a4703852de5a4bd59
+_getJestObj().mock('react-native/Libraries/Animated/NativeAnimatedHelper');
+
+require("@testing-library/jest-native/extend-expect");
+
+function _getJestObj() {
+  var _require = require("@jest/globals"),
+      jest = _require.jest;
+
+  _getJestObj = function _getJestObj() {
+    return jest;
+  };
+
+  return jest;
+}
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImplc3Quc2V0dXAudHMiXSwibmFtZXMiOlsibW9jayJdLCJtYXBwaW5ncyI6IkFBRUEsY0FBS0EsSUFBTCxDQUFVLHNEQUFWOztBQUZBIiwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IFwiQHRlc3RpbmctbGlicmFyeS9qZXN0LW5hdGl2ZS9leHRlbmQtZXhwZWN0XCI7XG5cbmplc3QubW9jaygncmVhY3QtbmF0aXZlL0xpYnJhcmllcy9BbmltYXRlZC9OYXRpdmVBbmltYXRlZEhlbHBlcicpOyJdfQ==
